@@ -7,6 +7,8 @@ Developed as the core engine for a bullet-heaven roguelite running
 entirely in HTML5 Canvas 2D — no frameworks, no build tools, 
 no external dependencies.
 
+Note: ignore the m0 or m* marks for progress marks in my current game project
+
 ---
 
 ## Performance Targets
